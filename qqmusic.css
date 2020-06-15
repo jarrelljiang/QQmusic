@@ -38,7 +38,7 @@ nav{height:113px; border-bottom:1px solid #dddddd;}
 .nav h3 div:nth-child(2){margin-left:0;}
 .nav h3 div:hover{background:url(images/2016-09-05_194856.jpg) repeat-x 0 0;}
 .nav h3 div:first-child{color:#fff; background:#0dad51; }
-.nav h4{height:38px; line-height:38px; display:inline-block; width:520px; padding-left:200px; cursor:default;}
+.nav h4{height:38px; line-height:38px; display:inline-block; width:530px; padding-left:200px; cursor:default;}
 .nav h4 a{color:#6e6e6e; padding:0 16px; border-left:1px  solid #dddddd; font-size:14px; font-weight:normal;}
 #index{color:#0dad51; border:none;}
 .nav h4 a:first-child{ border:none;}
